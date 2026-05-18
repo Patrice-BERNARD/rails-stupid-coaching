@@ -8,3 +8,13 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+ h1,
+ h3 {
+  color:blue;
+  margin-bottom: 1em;
+ }
+
+.container {
+  margin: 2em;
+}
